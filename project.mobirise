@@ -128,12 +128,12 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "heart",
-              "family": "et-line",
+              "name": "hearth",
+              "family": "mobirise-icons-bold",
               "link": "index.html",
               "size": "28",
               "active": true,
-              "color": "#ffffff",
+              "color": "#f97352",
               "newWindow": false
             }
           },

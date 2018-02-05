@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-02-03_2022",
+    "name": "Josy Alves | Consultora de Beleza",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -28,13 +28,17 @@
     "versionFirst": "4.6.3",
     "uniqCompNum": 12,
     "versionPublish": "4.6.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Josy Alves | Consultora de Beleza",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -195,7 +199,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#553982",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

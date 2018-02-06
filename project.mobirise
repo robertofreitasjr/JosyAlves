@@ -15,9 +15,9 @@
         "titleFont": "Roboto Condensed",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true,
+        "isScrollToTopButton": false,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -102,8 +102,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "52",
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,

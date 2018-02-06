@@ -71,6 +71,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Roboto Condensed', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -426,6 +432,9 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #990a08;
+}
+.scrollToTop_wraper {
+  opacity: 0 !important;
 }
 #header1-d .mbr-section-title {
   color: #ffffff;

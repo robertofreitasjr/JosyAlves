@@ -101,7 +101,7 @@
             "showText": false,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "40",
+            "imageSize": "52",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
@@ -323,6 +323,10 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "16px"
+            },
+            "H3": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
             }
           }
         },
@@ -432,7 +436,7 @@
             "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,

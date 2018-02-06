@@ -55,7 +55,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/josy-alves-site-capa-1534x1890.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/josy-alves-site-capa-5-1534x1890.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -69,7 +69,7 @@
           },
           "title": "QUER UMA<br>SESSÃO GRÁTIS<br>DE CUIDADOS<br>COM A PELE?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
           "_tags": [
             "Theme"
           ],
@@ -78,8 +78,8 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "60px"
             },
             ".mbr-section-title DIV": {
@@ -102,8 +102,8 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "40",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -171,7 +171,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#00a885",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -196,7 +196,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "sun",
+              "name": "magic-stick",
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
@@ -208,7 +208,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "hearth",
+              "name": "touch",
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",

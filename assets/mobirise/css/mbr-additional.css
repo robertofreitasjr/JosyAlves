@@ -21,6 +21,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -457,6 +458,10 @@ h6,
 #features6-f P {
   color: #ffffff;
   font-family: 'Open Sans', sans-serif;
+}
+#msg-box1-g .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;

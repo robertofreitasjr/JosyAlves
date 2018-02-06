@@ -171,7 +171,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -189,7 +189,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f97352"
+              "color": "#f28281"
             }
           },
           "media2": {
@@ -201,7 +201,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f97352"
+              "color": "#f28281"
             }
           },
           "media3": {
@@ -213,7 +213,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f97352"
+              "color": "#f28281"
             }
           },
           "media4": {
@@ -280,10 +280,10 @@
               "text-align": "center",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
@@ -337,7 +337,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "1.1",

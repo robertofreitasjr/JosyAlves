@@ -197,8 +197,8 @@
             "showTitle": true,
             "showSubTitle": true,
             "labelsColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -234,7 +234,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Bloco/Apartamento*"
+                "customTitle": "Bloco/Apartamento"
               }
             }
           },

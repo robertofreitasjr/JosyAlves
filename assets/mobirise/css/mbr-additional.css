@@ -1,10 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light:400);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
 
 
 
@@ -419,14 +424,17 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-c .btn {
+#header1-d .mbr-section-title {
+  color: #fac51c;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 60px;
+}
+#header1-d .mbr-section-title DIV {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#header1-d .btn {
   font-family: 'Oswald', sans-serif;
   font-size: 24px;
-}
-#header1-c .mbr-section-title {
-  font-size: 60px;
-  font-family: 'Open Sans Condensed', sans-serif;
-  color: #ffffff;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -492,28 +500,25 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #b8312f!important;
 }
-#msg-box4-4 H3 {
-  color: #ffffff;
-}
-#features4-3 .card-subtitle {
-  color: #475577;
-}
-#features4-3 .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features4-3 P {
-  color: #ffffff;
-}
-#features4-3 H4 {
-  color: #000000;
-}
 #form1-5 .form-control-label {
   color: #ffffff;
 }
 #form1-5 SMALL {
   color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 18px;
+}
+#form1-5 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#form1-5 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
 }
 #footer1-b P {
   color: #ffffff;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 14px;
 }

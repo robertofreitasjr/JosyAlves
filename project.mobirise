@@ -55,7 +55,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/josy-alves-site-capa-5-1534x1890.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -164,7 +164,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
@@ -188,7 +188,7 @@
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "64",
               "color": "#ffffff"
             }
           },
@@ -200,7 +200,7 @@
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "64",
               "color": "#ffffff"
             }
           },
@@ -212,7 +212,7 @@
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "64",
               "color": "#ffffff"
             }
           },

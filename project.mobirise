@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
@@ -184,7 +184,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "timer",
+              "name": "touch",
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
@@ -196,7 +196,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "magic-stick",
+              "name": "timer",
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
@@ -208,7 +208,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "touch",
+              "name": "sun",
               "family": "mobirise-icons-bold",
               "active": true,
               "link": "https://mobirise.com",
@@ -403,7 +403,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#990a08!important"
             }
           },
           "logo": {
@@ -516,7 +516,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Consultora de Beleza<br>Mary Kay",
+          "text": "Consultora de Beleza<br>Mary Kay<br>",
           "_tags": [
             "Theme"
           ],

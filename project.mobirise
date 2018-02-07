@@ -57,7 +57,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1797x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",

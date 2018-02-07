@@ -55,9 +55,9 @@
             "showText": false,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "right",
+            "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/josy-alves-site-capa-1534x1890.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -69,7 +69,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "QUER UMA SESSÃO GRÁTIS DE CUIDADOS COM A PELE?",
+          "title": "<br><br>QUER UMA SESSÃO GRÁTIS DE CUIDADOS COM A PELE?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
           "_tags": [
@@ -80,9 +80,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "48px"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
             },
             ".mbr-section-title DIV": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -104,7 +104,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "52",
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -257,7 +257,7 @@
           "title2": "Efeito Real, Rápido e Duradouro",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Protege Sua Pele dos Os Efeitos do Sol",
+          "title3": "Protege Sua Pele dos Efeitos do Sol",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",

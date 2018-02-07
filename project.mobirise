@@ -102,7 +102,7 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "52",
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

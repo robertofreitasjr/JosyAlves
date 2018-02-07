@@ -15,7 +15,7 @@
         "titleFont": "Roboto Condensed",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
@@ -28,7 +28,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.3",
-    "uniqCompNum": 17,
+    "uniqCompNum": 25,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -162,7 +162,7 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -189,7 +189,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f28281"
+              "color": "#ffffff"
             }
           },
           "media2": {
@@ -201,7 +201,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f28281"
+              "color": "#ffffff"
             }
           },
           "media3": {
@@ -213,7 +213,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "64",
-              "color": "#f28281"
+              "color": "#ffffff"
             }
           },
           "media4": {
@@ -249,13 +249,13 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Bootstrap 4",
+          "title1": "Fácil Aplicação Com Movimentos Circulares",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "title2": "Efeito Real, Rápido e Duradouro",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
+          "title3": "Protege Sua Pele dos Os Efeitos do Sol",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -337,7 +337,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "1.1",
@@ -516,19 +516,18 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Consultora de Beleza<br>Mary Kay<br>",
+          "text": "Consultora de Beleza\n<br>Mary Kay",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-b",
+          "_anchor": "footer1-m",
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "text-align": "center",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "16px"
+              "font-size": "18px"
             }
           }
         }

@@ -337,7 +337,7 @@
             "showBrand": true,
             "hideButtons": true,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "1.1",
@@ -361,7 +361,7 @@
               "color": "#ffffff",
               "font-family": "'Shadows Into Light', handwriting",
               "googleLink": "https://fonts.googleapis.com/css?family=Shadows+Into+Light:400",
-              "font-size": "36px"
+              "font-size": "32px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"

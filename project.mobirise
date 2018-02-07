@@ -80,9 +80,9 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "36px"
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "46px"
             },
             ".mbr-section-title DIV": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -167,7 +167,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

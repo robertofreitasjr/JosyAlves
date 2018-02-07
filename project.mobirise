@@ -436,7 +436,7 @@
             "showSubTitle": true,
             "labelsColor": "#ffffff",
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -505,7 +505,7 @@
         },
         {
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",

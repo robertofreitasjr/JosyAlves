@@ -55,7 +55,7 @@
             "showArrow": false,
             "contentAlign": "left",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -80,7 +80,7 @@
               "color": "#ffffff",
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "60px"
+              "font-size": "48px"
             },
             ".mbr-section-title DIV": {
               "font-family": "'Open Sans Condensed', sans-serif",
@@ -90,7 +90,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         },
@@ -340,11 +340,11 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "1.1",
+            "fontSize": "1.2",
             "fontName": {
-              "name": "Open Sans",
-              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "css": "'Open Sans', sans-serif"
+              "name": "Open Sans Condensed",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "css": "'Open Sans Condensed', sans-serif"
             },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -371,14 +371,14 @@
             },
             ".link, .dropdown-item": {
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-family": "'Open Sans', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-family": "'Open Sans Condensed', sans-serif"
             },
             ".link": {
-              "font-size": "1.1rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.191rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -487,9 +487,9 @@
             },
             "SMALL": {
               "color": "#ffffff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "18px"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px"
             },
             ".mbr-section-title": {
               "color": "#ffffff",
@@ -499,7 +499,7 @@
             ".btn": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         },
@@ -516,7 +516,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Consultora de Beleza\n<br>Mary Kay",
+          "text": "Consultora de Beleza<br>Mary Kay",
           "_tags": [
             "Theme"
           ],

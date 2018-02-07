@@ -552,6 +552,8 @@ h6,
 
 
 
+
+
 #ext_menu-p .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -620,4 +622,11 @@ h6,
   color: #ffffff;
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 18px;
+}
+#slider-t P {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+#slider-t H2 {
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
 }

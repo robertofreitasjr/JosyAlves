@@ -57,7 +57,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -69,7 +69,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.5"
           },
-          "title": "QUER UMA SESSÃO GRÁTIS DE CUIDADOS COM A PELE?",
+          "title": "QUER UMA SESSÃO GRÁTIS<br>DE CUIDADOS COM A PELE?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
           "_tags": [

@@ -55,7 +55,7 @@
             "showText": false,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "left",
+            "contentAlign": "right",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "parallax": true,
@@ -71,7 +71,7 @@
           },
           "title": "QUER UMA<br>SESSÃO GRÁTIS<br>DE CUIDADOS<br>COM A PELE?",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">AGENDAR AGORA MESMO</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#msg-box4-e\" data-toolbar=\"-mbrBtnMove\">VEJA O VÍDEO</a> ",
           "_tags": [
             "Theme"
           ],
@@ -448,7 +448,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Garanta seu BRINDE agora mesmo!",
+          "title": "<br>Garanta seu BRINDE agora mesmo!",
           "subtitle": "<br>Preencha o formulário e aguarde o contato da Consultora de Beleza.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
           "form": {

@@ -166,7 +166,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "columns": "3",
             "bgImageRadio": true,

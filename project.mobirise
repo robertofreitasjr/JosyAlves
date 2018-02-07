@@ -34,7 +34,9 @@
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {

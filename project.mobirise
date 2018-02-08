@@ -682,6 +682,38 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/cp145-3-900x900.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "R$ 129",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lentes polarizadas inibem totalmente os reflexos, trazendo ainda mais conforto a sua visão, dando uma resolução de até 600 cores a mais que não são vistas a olho nu.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+5511954467692\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>COMPRE AGORA</a> ",
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/74369-900x900.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "R$ 129",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Lentes polarizadas inibem totalmente os reflexos, trazendo ainda mais conforto a sua visão, dando uma resolução de até 600 cores a mais que não são vistas a olho nu.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+5511954467692\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>COMPRE AGORA</a> ",
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6188-1-900x900.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -775,7 +807,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "42",
-              "color": "#fac51c"
+              "color": "#000000"
             }
           },
           "media2": {
@@ -787,7 +819,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "42",
-              "color": "#fac51c"
+              "color": "#000000"
             }
           },
           "media3": {
@@ -799,7 +831,7 @@
               "active": true,
               "link": "https://mobirise.com",
               "size": "42",
-              "color": "#fac51c"
+              "color": "#000000"
             }
           },
           "media4": {

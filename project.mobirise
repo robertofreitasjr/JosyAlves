@@ -340,7 +340,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "1.2",
             "fontName": {
@@ -550,7 +550,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "1.2",
             "fontName": {
@@ -693,8 +693,8 @@
                 "contentAlign": "left",
                 "text": "Lentes polarizadas inibem totalmente os reflexos, trazendo ainda mais conforto a sua visão, dando uma resolução de até 600 cores a mais que não são vistas a olho nu.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+5511954467692\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>COMPRE AGORA</a> ",
-                "overlayOpacity": "0.3",
-                "overlayColor": "#ffffff"
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000"
               }
             ]
           },
@@ -708,12 +708,12 @@
             "P": {
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "H2": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#fac51c"
+              "color": "#ffffff"
             }
           }
         },

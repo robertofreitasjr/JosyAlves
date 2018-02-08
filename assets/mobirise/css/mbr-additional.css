@@ -625,8 +625,9 @@ h6,
 }
 #slider-t P {
   font-family: 'Open Sans Condensed', sans-serif;
+  color: #000000;
 }
 #slider-t H2 {
   font-family: 'Oswald', sans-serif;
-  color: #ffffff;
+  color: #fac51c;
 }

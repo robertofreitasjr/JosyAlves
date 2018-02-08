@@ -340,7 +340,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "1.2",
             "fontName": {
@@ -550,7 +550,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000000",
             "fontSize": "1.2",
             "fontName": {
@@ -676,7 +676,7 @@
             "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": "5",
             "slides": [
@@ -693,7 +693,8 @@
                 "contentAlign": "left",
                 "text": "Lentes polarizadas inibem totalmente os reflexos, trazendo ainda mais conforto a sua visão, dando uma resolução de até 600 cores a mais que não são vistas a olho nu.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+5511954467692\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>COMPRE AGORA</a> ",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.3",
+                "overlayColor": "#ffffff"
               }
             ]
           },
@@ -706,12 +707,13 @@
           "_styles": {
             "P": {
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#000000"
             },
             "H2": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
+              "color": "#fac51c"
             }
           }
         },
@@ -723,7 +725,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -748,14 +750,14 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -772,7 +774,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "42",
+              "color": "#fac51c"
             }
           },
           "media2": {
@@ -783,7 +786,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "42",
+              "color": "#fac51c"
             }
           },
           "media3": {
@@ -794,7 +798,8 @@
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "42",
+              "color": "#fac51c"
             }
           },
           "media4": {
